@@ -24,5 +24,6 @@ A lightweight, command-line Python security utility designed to recursively scan
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kajal-yadav3311/simple-antivirus-scanner.git](https://github.com/kajal-yadav3311/simple-antivirus-scanner.git)
-   cd simple-antivirus-scanner
+  git clone https://github.com/kajal-yadav3311/simple-antivirus-scanner.git
+cd simple-antivirus-scanner
+ 
